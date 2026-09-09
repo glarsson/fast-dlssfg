@@ -8,12 +8,15 @@ Python package plus the NVIDIA engine it drives.
 24FPS (pigeon flying):
 https://github.com/user-attachments/assets/b698c6da-f3be-43f2-8067-460cc4a3d010
 
-60FPS (pigeon flying:
+60FPS (pigeon flying):
 https://github.com/user-attachments/assets/1c1cc1c8-036b-48bf-ad38-34f6e75244e9
 
+This data is from the pigeon test.
 <img width="1600" height="750" alt="image" src="https://github.com/user-attachments/assets/eb849386-9cd8-47c5-b979-b0dac6868739" />
 
- 
+
+
+Here is another example with more motion:
 
 24FPS (person walking down stairs):
 https://github.com/user-attachments/assets/b052a9db-932c-4fe3-b005-1046f1690422
