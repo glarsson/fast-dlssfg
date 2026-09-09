@@ -5,15 +5,21 @@ into a buttery 60 fps clip with real generated intermediate frames, directly
 from the command line. No ComfyUI server, no model downloads, one binary-free
 Python package plus the NVIDIA engine it drives.
 
-24FPS:
+24FPS (pigeon flying):
 https://github.com/user-attachments/assets/b698c6da-f3be-43f2-8067-460cc4a3d010
 
-60FPS:
+60FPS (pigeon flying:
 https://github.com/user-attachments/assets/1c1cc1c8-036b-48bf-ad38-34f6e75244e9
 
 <img width="1600" height="750" alt="image" src="https://github.com/user-attachments/assets/eb849386-9cd8-47c5-b979-b0dac6868739" />
 
+-
 
+24FPS (person walking down stairs):
+https://github.com/user-attachments/assets/b052a9db-932c-4fe3-b005-1046f1690422
+
+60FPS (person walking down stairs):
+https://github.com/user-attachments/assets/b11057e4-a85d-448c-99ba-29331b5d030d
 
 ```text
 fast-dlssfg run input.mp4
