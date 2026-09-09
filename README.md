@@ -11,6 +11,7 @@ https://github.com/user-attachments/assets/b698c6da-f3be-43f2-8067-460cc4a3d010
 60FPS:
 https://github.com/user-attachments/assets/1c1cc1c8-036b-48bf-ad38-34f6e75244e9
 
+<img width="1600" height="750" alt="image" src="https://github.com/user-attachments/assets/eb849386-9cd8-47c5-b979-b0dac6868739" />
 
 
 
