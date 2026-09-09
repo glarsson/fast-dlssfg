@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fast-dlssfg"
+version = "1.0.0"
+description = "Standalone NVIDIA DLSS Frame Interpolation CLI (24 -> 60 fps), no ComfyUI server."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+dependencies = [
+    "av>=9.0",
+    "numpy>=1.21",
+    "opencv-python>=4.5",
+]
+
+[project.scripts]
+fast-dlssfg = "fast_dlssfg.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["fast_dlssfg*"]

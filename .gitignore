@@ -1,0 +1,29 @@
+# The NVIDIA DLSS engine (upstream node checkout with bundled DLSS runtimes).
+# Provisioned by: fast-dlssfg setup   (never committed - carries NVIDIA
+# runtimes under their own license, ~230 MB after git-lfs pull)
+engine/
+
+# Outputs / generated media
+out/
+.smoke/
+*.mp4
+*.mkv
+*.mov
+*.webm
+*.report.json
+*.timing.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
