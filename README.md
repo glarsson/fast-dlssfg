@@ -5,6 +5,15 @@ into a buttery 60 fps clip with real generated intermediate frames, directly
 from the command line. No ComfyUI server, no model downloads, one binary-free
 Python package plus the NVIDIA engine it drives.
 
+24FPS:
+https://github.com/user-attachments/assets/b698c6da-f3be-43f2-8067-460cc4a3d010
+
+60FPS:
+https://github.com/user-attachments/assets/1c1cc1c8-036b-48bf-ad38-34f6e75244e9
+
+
+
+
 ```text
 fast-dlssfg run input.mp4
 -> input_60fps.mp4   (60 fps, DLSS-generated intermediate frames)
